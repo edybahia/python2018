@@ -3,3 +3,5 @@
 tempc= int (input('Digite o valor da temperatura em ºC'))
 tempf= ((9 * tempc)/ 5)+ 32
 print("O valor da temperatura em F é %3.3f " %tempf )
+
+#fim do programa
