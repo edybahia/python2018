@@ -1,5 +1,6 @@
 # lower() para que seja possivel entender apenas as minusculas mesmo o usuario digitando maisculas
 # sexo não precisa de variavel pois por padrão o pytho aceita string
+# lembrar que os if no python necessita do recuo (indentado)
 
 idade = int(input("Digite a sua idade"))
 sexo = input("Digite seu sexo M ou F").lower()
