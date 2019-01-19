@@ -4,7 +4,7 @@ pessoas = [] # lista neste vai estar vazia
 
 
 while 'sair' not in pessoas: # neste laço o loop continua até encontrar a palabra sair
-                             # not in = quando uma letra faz parte de ua string ou lista ou tlupa
+                             # not in = quando uma letra faz parte de uma string ou lista ou tlupa
     nome = input("Digite o seu nome")
     pessoas.append(nome)
  print(pessoas)
